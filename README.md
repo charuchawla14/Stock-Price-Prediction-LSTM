@@ -51,9 +51,13 @@ Jupyter Notebook
 
 🏗️ Model Architecture
 Input Layer (Time-Series sequences)
+
 LSTM Layer (50–100 units)
+
 Dropout Layer (to prevent overfitting)
+
 Dense Output Layer (Final prediction)
+
 
 
 📉 Results
@@ -62,12 +66,12 @@ Predictions closely follow actual stock price movement.
 Performance improves with more training data and tuning.
 
 
-📦 Requirements
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-tensorflow
+📦 Requirements:
+numpy,
+pandas,
+matplotlib,
+seaborn,
+scikit-learn,
+tensorflow,
 keras
 

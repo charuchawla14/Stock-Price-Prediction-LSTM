@@ -28,6 +28,7 @@ Scikit-learn
 Jupyter Notebook
 
 
+
 ⚙️ Workflow
 📥 Data Collection (Yahoo Finance / NSE dataset)
 
@@ -70,10 +71,3 @@ scikit-learn
 tensorflow
 keras
 
-
-📌 Key Learnings
-Time-series forecasting using deep learning
-LSTM architecture and working
-Data preprocessing for sequential data
-Model evaluation and visualization
-Real-world financial data handling

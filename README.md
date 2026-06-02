@@ -14,6 +14,7 @@ Predicts future stock closing prices with improved accuracy
 Visualizes actual vs predicted stock prices
 
 
+
 🧠 Tech Stack
 Python 🐍
 
@@ -26,6 +27,8 @@ Matplotlib & Seaborn
 Scikit-learn
 
 Jupyter Notebook
+
+
 
 
 
@@ -49,6 +52,8 @@ Jupyter Notebook
 📉 Visualization of Results
 
 
+
+
 🏗️ Model Architecture
 Input Layer (Time-Series sequences)
 
@@ -57,6 +62,7 @@ LSTM Layer (50–100 units)
 Dropout Layer (to prevent overfitting)
 
 Dense Output Layer (Final prediction)
+
 
 
 

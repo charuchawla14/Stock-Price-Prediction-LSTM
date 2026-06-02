@@ -16,22 +16,35 @@ Visualizes actual vs predicted stock prices
 
 🧠 Tech Stack
 Python 🐍
+
 TensorFlow / Keras
+
 NumPy & Pandas
+
 Matplotlib & Seaborn
+
 Scikit-learn
+
 Jupyter Notebook
 
 
 ⚙️ Workflow
 📥 Data Collection (Yahoo Finance / NSE dataset)
+
 🧹 Data Cleaning & Preprocessing
+
 📊 Exploratory Data Analysis (EDA)
+
 🔢 Feature Scaling using MinMaxScaler
+
 🧱 Creating Time-Series Sequences
+
 🧠 Building LSTM Model
+
 🏋️ Model Training
+
 📈 Predictions on Test Data
+
 📉 Visualization of Results
 
 
